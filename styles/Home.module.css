@@ -114,3 +114,13 @@
     flex-direction: column;
   }
 }
+
+.header {
+  display: flex;
+  justify-content: end;
+  margin-top: 10px;
+}
+
+.btnConnect {
+  width: auto;
+}
